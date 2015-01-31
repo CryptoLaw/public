@@ -8,9 +8,9 @@
 
 The first legally binding, enforceable Smart Contract business agreement has been signed in the CryptoLaw office on January 31 2015 at 12:55PM in Hong Kong's Central District. In attendance were the parties: Dr Joseph Wang, on behalf on BitQuant, and Oswis Wong, on behalf of AirButton; as well as Samuel Bourque, an academic researcher and Mr. Yu, a solicitor. This marks the birth of new era in bringing automation in the act of contracting--bringing it kicking-and-screaming out of the middle ages of pen and paper into the age of the Internet.
 
-## Body
+## Release
 
-### Signature
+### Execution
 
 BitQuant Research Laboratories (Asia) Ltd. Director, Dr Joseph Wang, proudly signed and executed the digitally drafted agreement with AirButton's CEO, Oswis Wong. "This Smart Contract came about through several months of technical effort and legal research," said Dr Wang, "we are very passionate about this new technology--it's only a matter of time until it revolutionizes how people do business."
 

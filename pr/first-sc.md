@@ -40,7 +40,7 @@ CryptoLaw [4] is a Hong Kong based legal services firm that specializes in regul
 
 ### Legalities
 
-"Smart Contracts are legally binding... if drafted properly" said Henry, co-founder of CryptoLaw, "a lot of care needs to go into them to ensure that statutory requirements are met." Once drafted and signed, the prevailing legal consensus is that they are legally binding and enforceable in courts; however, this has yet to be tested in courts. Bourque adds precision: "Smart Contracts do not change the nature of contracts' role in business or in law; they rather introduce better means of reducing friction throughout the process. The laws are not yet set in stone, but all principles of law point favorably to their enforceability."
+"Smart Contracts are legally binding... if drafted properly" said Henry, co-founder of CryptoLaw, "a lot of care needs to go into them to ensure that statutory requirements are met." Once drafted and signed, the prevailing legal consensus is that they are legally binding and enforceable in courts; however, this has yet to be tested in courts. Bourque underscores that "Smart Contracts do not change the nature of contracts' role in business or in law; they rather introduce better means of reducing friction throughout the process. The laws are not yet set in stone, but all principles of law point favorably to their enforceability."
 
 ### Enthusiasm
 

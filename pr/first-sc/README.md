@@ -20,7 +20,7 @@ The Smart Contract in question is that of a business loan from BitQuant to AirBu
 
 ### Smart Contracts
 
-Smart Contracts are not a new idea in academia, but have not seen adoption in business, as banking services do not allow programmatic manipulation of monies. "Smart Contracts were only theorized in Computer Science academic circles and not properly examined by neither lawyers, nor law professors," said Samuel Bourque, an academic legal researcher at the City University of Hong Kong. Bourque, with technology, finance and legal backgrounds, has authored peer-reviewed journal articles on the topic of Bitcoin, Cryptocurrencies and Smart Contracts--bridging the divide between the intricate technologies and the legal profession.
+Smart Contracts are not a new idea in academia, but have not seen adoption in business, as there were historically many technological hurdles preventing it. "Smart Contracts were only theorized in Computer Science academic circles and not properly examined by neither lawyers, nor law professors," said Samuel Bourque, an academic legal researcher at the City University of Hong Kong. Bourque, with technology, finance and legal backgrounds, has authored peer-reviewed journal articles on the topic of Bitcoin, Cryptocurrencies and Smart Contracts--bridging the divide between the intricate technologies and the legal profession.
 
 The accepted definition of a Smart Contract, as established in the recent peer-reviewed literature, must meet three criteria: (i) that is has some level of automation; (ii) that its authoritative version is drafted in machine-interpretable code; and (iii) that it processed in a way that is not within the exclusive control of either party. [2]
 

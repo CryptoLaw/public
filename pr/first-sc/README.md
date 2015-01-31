@@ -52,7 +52,7 @@ Since the advent of Bitcoin and Cryptocurrencies, there has been a growing amoun
 
 During the signing ceremony, the group wondered whether they were the first ever to execute a properly formed, legally binding, business Smart Contract. "I put word out there on various Cryptocurrency forums, asking whether there were any other who made the claim. That was a month ago... nobody has popped up to make the claim."
 
-The group is however ready to claim being the first in Hong Kong to execute a Smart Contract according to formal legal standards. 
+The group is however confident in claiming to be the first in Hong Kong to execute a Smart Contract according to formal legal standards. 
 
 When asked why they signed it on paper rather than cryptographically, Dr Wang simply smiled and added: "sometimes we appreciate the low-tech exercise of meeting up in person, shaking hands and signing it the old fashioned way."
 

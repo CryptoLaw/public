@@ -14,7 +14,7 @@ On January 31 2015 at 12:55PM in Hong Kong's Central District, a group of pionee
 
 ### Execution
 
-BitQuant Research Laboratories (Asia) Ltd. Director, Dr Joseph Wang, proudly signed the digitally drafted agreement with AirButton's CEO, Oswis Wong. "This Smart Contract came about through several months of technical effort and legal research," said Dr Wang, "we are very passionate about this new technology--it's only a matter of time until it revolutionizes how people do business."
+BitQuant Research Laboratories (Asia) Ltd. Director, Dr Joseph Wang, proudly signed the digitally drafted agreement with AirButton's CEO, Oswis Wong. "This Smart Contract came about through several months of collaboration with CryptLaw, including both technical effort and legal research," said Dr Wang, "we are very passionate about this new technology--it's only a matter of time until it revolutionizes how people do business."
 
 The Smart Contract in question is that of a business loan from BitQuant to AirButton, the terms of which are plainly viewable on GitHub.com, as it was an open source project. [1] 
 
@@ -36,13 +36,13 @@ Dr Wang saw a need for such an extension of credit in AirButton, a Hong Kong bas
 
 ### CryptoLaw
 
-CryptoLaw [4] is a Hong Kong based legal services firm that specializes in regulatory advice and Smart Contracts. Also selected as an incubatee by Cyberport, "we are working on building enterprise-level Smart Contract tools for legally binding agreements throughout the whole life cycle of the agreement--from drafting to completion, including exceptional cases such as arbitration and court evidentiary procedures" said Sam, co-founder of CryptoLaw.
+CryptoLaw [4] is a legal-related, technology services firm that specializes in regulatory advice for technolofy startups, and--most particularly--Smart Contracts. Also selected as an incubatee by Cyberport, "we are working on building enterprise-level Smart Contract tools for legally binding agreements throughout the whole life cycle of the agreement--from drafting to completion, including exceptional cases such as arbitration and court evidentiary procedures" said Sam, co-founder of CryptoLaw.
 
 "[CryptoLaw's] flagship product, NScrypt, is an IDE (Integrated Development Environment) for drafting Smart Contracts that are as flexible as your business needs--it is expected to be released in 2015 Q2" according to their website.
 
 ### Legalities
 
-"Smart Contracts are legally binding... if drafted properly" said Henry, co-founder of CryptoLaw, "a lot of care needs to go into them to ensure that statutory requirements are met." Once drafted and signed, the prevailing legal consensus is that they are legally binding and enforceable in courts; however, this has yet to be tested in courts. Bourque underscores that "Smart Contracts do not change the nature of contracts' role in business or in law; they rather introduce better means of reducing friction throughout the process. The laws are not yet set in stone, but all principles of law point favorably to their enforceability."
+"Smart Contracts are legally binding... if drafted properly," cautions Henry, co-founder of CryptoLaw, "a lot of care needs to go into them to ensure that statutory requirements are met." Once drafted and signed, the prevailing legal consensus is that they are legally binding and enforceable in courts; however, this has yet to be tested in courts. Bourque underscores that "Smart Contracts do not change the nature of contracts' role in business or in law; they rather introduce better means of reducing friction throughout the process. The laws are not yet set in stone, but all principles of law point favorably to their enforceability."
 
 ### Enthusiasm
 

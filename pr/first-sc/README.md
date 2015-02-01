@@ -26,7 +26,7 @@ The accepted definition of a Smart Contract, as established in the recent peer-r
 
 ### BitQuant
 
-In collaboration with CryptoLaw, Dr. Wang wrote the trailblazing Smart Contract as a stand-alone piece of JavaScript code, that runs in any browser. "I went out of my way to get agreement all-around to make [the Smart Contract] open source so that others can help make future iterations better" said Dr Wang, a licensed money-lender in Hong Kong, "The Smart Contract will automate the processing of the loan, so that I don't have to--that's the best way to make it scale."
+In collaboration with CryptoLaw, Dr. Wang wrote the trailblazing Smart Contract as a stand-alone piece of JavaScript code, that runs in any browser. "I went out of my way to get agreement all-around to make [the Smart Contract] open source so that others can help make future iterations better" said Dr Wang, "The Smart Contract will automate the processing of the loan, so that I don't have to--that's the best way to make it scale."
 
 Dr Wang, as founder of BitQuant [3], is working on new ways to revolutionize fintech and remedy how capital gets inefficiently allocated: "most loans are made to those who do not need it; those who need it most, the risk-taking entrepreneurs, are largely shunned by the big banks. The innovation funds and grants help, but still leave a great divide." 
 

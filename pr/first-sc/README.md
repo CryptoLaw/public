@@ -48,7 +48,7 @@ CryptoLaw [4] is a legal-related, technology services firm that specializes in r
 
 Since the advent of Bitcoin and Cryptocurrencies, there has been a growing amount of attention on Smart Contracts, most notably on the Ethereum project, which has yet to launch despite having purportedly raised upwards of US$15M.
 
-"We love the idea of Ethereum," said Sam, "however we're concerned about the disconnect between the technology and the legal system, in that engineers are used to working rather distant from legal implications. You cannot ignore business and legal realities." Ethereum and other similar projects tie Blockchain technology and Smart Contracts, raising several legal issues that are both unclear and may be difficult to mitigate.
+"We love the idea of Ethereum," said Sam, "however we're concerned about the disconnect between the technology and the legal system, in that engineers are used to working rather distant from legal implications. You cannot ignore business and legal realities." Ethereum and other similar projects tie Blockchain technology and Smart Contracts, raising several legal issues that are unclear for the legal systems around the world.
 
 ### World's First?
 

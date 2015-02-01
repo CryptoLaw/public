@@ -6,4 +6,4 @@ Reuters|Ajay Shamdasani|Joe|Not contacted|
 Nikkei|Richard Smart|Sam|Not contacted|
 CryptoWorldNews|James Bang|Sam|Not contacted|
 CoinDesk|Jon Southhurst||Not contacted|
-
+8BTC|Gavin|Henry|Not contacted|

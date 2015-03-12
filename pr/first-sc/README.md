@@ -28,7 +28,7 @@ Smart contracts, as defined in recent peer-reviewed literature, must meet three 
 
 In collaboration with CryptoLaw, Dr. Wang wrote the smart contract signed in January as a standalone piece of JavaScript code that runs in any browser. "I went out of my way to get agreement all-around to make [the smart contract] open source so that others can help make future iterations better," said Dr Wang. "The smart contract will automate the processing of the loan, so that I don't have to -- that's the best way to make it scale."
 
-Dr. Wang, as founder of BitQuant [3], is working on new ways to revolutionize financial technology and remedy inefficiencies in capital allocation: "Most loans are made to those who do not need them; those who need them most, risk-taking entrepreneurs, are largely shunned by big banks. The innovation funds and grants help, but still leave a great divide." 
+Dr. Wang, as founder of BitQuant [3], is working on new ways to revolutionize financial technology and remedy inefficiencies in capital allocation: "Most loans are made to those who do not need them; those who need them most, risk-taking entrepreneurs, are largely shunned by big banks. The innovation funds and grants help, but still leave a big gap." 
 
 ### AirButton
 

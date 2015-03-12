@@ -36,7 +36,7 @@ Dr. Wang saw a need for such an extension of credit in AirButton, a Hong Kong ba
 
 ### CryptoLaw
 
-CryptoLaw [4] is a technology services firm that specializes in regulatory advice for technology startups, and -- most particularly -- smart contracts. Also selected as an incubatee by Cyberport, CryptoLaw is "working on building enterprise-level smart contract tools for legally binding agreements throughout the whole life cycle of the agreement -- from drafting to completion, including exceptional cases such as arbitration and court evidentiary procedures," said Samuel Bourque, speaking for CryptoLaw, "[CryptoLaw's] flagship product, NScrypt, is an integrated development environment for drafting smart contracts that are as flexible as your business needs -- it is expected to be released in 2015 Q2.".
+CryptoLaw [4] is a technology services firm that specializes in regulatory advice for technology startups, and -- most particularly -- smart contracts. Also selected as an incubatee by Cyberport, CryptoLaw is "working on building enterprise-level smart contract tools for legally binding agreements throughout the whole life cycle of the agreement -- from drafting to completion, including exceptional cases such as arbitration and court evidentiary procedures," said Samuel Bourque, speaking for CryptoLaw. "[CryptoLaw's] flagship product, NScrypt, is an integrated development environment for drafting smart contracts that are as flexible as your business needs -- it'll be in private Beta soon. Expect it to be released in 2015 Q2.".
 
 ### Legalities
 

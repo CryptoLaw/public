@@ -36,23 +36,21 @@ Dr. Wang saw a need for such an extension of credit in AirButton, a Hong Kong ba
 
 ### CryptoLaw
 
-CryptoLaw [4] is a technology services firm that specializes in regulatory advice for technology startups, and -- most particularly -- smart contracts. Also selected as an incubatee by Cyberport, CryptoLaw is "working on building enterprise-level smart contract tools for legally binding agreements throughout the whole life cycle of the agreement -- from drafting to completion, including exceptional cases such as arbitration and court evidentiary procedures," said Sam, its co-founder.
-
-"[CryptoLaw's] flagship product, NScrypt, is an integrated development environment for drafting smart contracts that are as flexible as your business needs -- it is expected to be released in 2015 Q2," according to their website.
+CryptoLaw [4] is a technology services firm that specializes in regulatory advice for technology startups, and -- most particularly -- smart contracts. Also selected as an incubatee by Cyberport, CryptoLaw is "working on building enterprise-level smart contract tools for legally binding agreements throughout the whole life cycle of the agreement -- from drafting to completion, including exceptional cases such as arbitration and court evidentiary procedures," said Samuel Bourque, speaking for CryptoLaw, "[CryptoLaw's] flagship product, NScrypt, is an integrated development environment for drafting smart contracts that are as flexible as your business needs -- it is expected to be released in 2015 Q2.".
 
 ### Legalities
 
-"Smart contracts are legally binding... if drafted properly," cautions Henry, co-founder of CryptoLaw, "a lot of care needs to go into them to ensure that statutory requirements are met." Once drafted and signed, the prevailing jurisprudential consensus is that they are legally binding and enforceable in courts; however, this has yet to be tested. Bourque underscores that, "Smart contracts do not change the nature of the role of contracts in business or in law; they rather introduce a better means of reducing friction throughout the process. The laws are not yet set in stone, but all principles of law point favorably to their enforceability."
+"Smart contracts are legally binding... if drafted properly," cautions Mr. Yu, a senior corporate lawyer, "a lot of care needs to go into them to ensure that statutory requirements are met." Once drafted and signed, the prevailing jurisprudential consensus is that they are legally binding and enforceable in courts; however, this has yet to be tested. Bourque underscores that, "Smart contracts do not change the nature of the role of contracts in business or in law; they rather introduce a better means of reducing friction throughout the process. The laws are not yet set in stone, but all principles of law point favorably to their enforceability."
 
 ### Enthusiasm
 
 Since the advent of bitcoin and cryptocurrencies, there has been a growing amount of attention on smart contracts, most notably on the Ethereum project, which has yet to launch despite having purportedly raised upwards of US$15 million.
 
-"We love the idea of Ethereum," said Sam, "however, we're concerned about the disconnect between the technology and the legal system, in that engineers are used to work being rather distant from legal realities. You cannot ignore business and legal implications." Ethereum and other similar projects tie blockchain technology and smart contracts, raising several legal issues that are unclear for the legal systems around the world.
+"We love the idea of Ethereum," said Bourque, "however, we're concerned about the disconnect between the technology and the legal system, in that engineers are used to work being rather distant from legal realities. You cannot ignore business and legal implications." Ethereum and other similar projects tie blockchain technology and smart contracts, raising several legal challenges that are unclear for the legal systems around the world.
 
 ### World First?
 
-During the signing ceremony, the group wondered whether they were the first ever to execute a properly formed, legally binding, business smart contract agreement. "I put word out there on various cryptocurrency forums, asking whether there were any other who made the claim,” said Dr. Wang. “That was a month ago... nobody has popped up to make the claim."
+During the signing ceremony, the group wondered whether they were the first ever to execute a properly formed, legally binding, business smart contract agreement. "I put word out there on various cryptocurrency forums, asking whether there were any other who made the claim,” said Dr. Wang. “That was two months ago... nobody has popped up to make the claim."
 
 The group is, however, confident in claiming to be the first in Hong Kong to execute a smart contract according to formal legal standards. 
 

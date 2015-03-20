@@ -36,7 +36,7 @@ Dr. Wang saw a need for such an extension of credit in AirButton, a Hong Kong ba
 
 ### CryptoLaw
 
-CryptoLaw [4] is a technology services firm that specializes in regulatory advice for technology startups, and -- most particularly -- smart contracts. Also selected as an incubatee by Cyberport, CryptoLaw is "working on building enterprise-level smart contract tools for legally binding agreements throughout the whole life cycle of the agreement -- from drafting to completion, including exceptional cases such as arbitration and court evidentiary procedures," said Samuel Bourque, speaking for CryptoLaw. "[CryptoLaw's] flagship product, NScrypt, is an integrated development environment for drafting smart contracts that are as flexible as your business needs -- it'll be in private Beta soon. Expect it to be released in 2015 Q2.".
+CryptoLaw [4] is a technology services firm that specializes in regulatory advice for technology startups, and -- most particularly -- smart contracts. Also selected as an incubatee by both Cyberport and City University of Hong Kong, CryptoLaw is "working on building enterprise-level smart contract tools for legally binding agreements throughout the whole life cycle of the agreement -- from drafting to completion, including exceptional cases such as arbitration and court evidentiary procedures," said Samuel Bourque, speaking for CryptoLaw. "[CryptoLaw's] flagship product, NScrypt, is an integrated development environment for drafting smart contracts that are as flexible as your business needs -- it'll be in private Beta soon. Expect it to be released in 2015 Q2.".
 
 ### Legalities
 
@@ -46,7 +46,7 @@ CryptoLaw [4] is a technology services firm that specializes in regulatory advic
 
 Since the advent of bitcoin and cryptocurrencies, there has been a growing amount of attention on smart contracts, most notably on the Ethereum project, which has yet to launch despite having purportedly raised upwards of US$15 million.
 
-"We love the idea of Ethereum," said Bourque, "however, we're concerned about the disconnect between the technology and the legal system, in that engineers are used to work being rather distant from legal realities. You cannot ignore business and legal implications." Ethereum and other similar projects tie blockchain technology and smart contracts, raising several legal issues that are unclear for the legal systems around the world.
+"We love the idea of Ethereum," said Bourque, "and we're looking forward to its release. They'll have their own niche for sure, for clients who wish to operate outside the legal system. We're targetting existing business contracts--building a system that enables a smooth transition from the tradional world to the Smart Contract and Cryptocurrency world." Ethereum and other similar projects tie blockchain technology and smart contracts, raising several legal issues that are unclear for the legal systems around the world.
 
 ### World First?
 

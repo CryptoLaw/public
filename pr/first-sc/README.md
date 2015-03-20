@@ -6,7 +6,7 @@
 
 ## Abstract
 
-The first legally binding, enforceable smart contract business agreement was signed 12:55 p.m., Jan. 31, 2015, at the CryptoLaw office in Hong Kong's Central District. The parties, Dr. Joseph Wang, on behalf on BitQuant, and Oswis Wong, on behalf of AirButton attended, as well as Samuel Bourque, an academic researcher, and Mr. Yu, a solicitor. The event begins a new era of automated business contracts.
+The first legally binding, enforceable smart contract business agreement was signed 12:55 p.m., Jan. 31, 2015, at the CryptoLaw office in Hong Kong's Central District. The parties, Dr. Joseph Wang, on behalf on BitQuant, and Oswis Wong, on behalf of AirButton attended, as well as Samuel Bourque, an academic researcher, and Mr. Yu, a senior corporate lawyer. The event begins a new era of automated business contracts.
 
 ## Release
 
